@@ -5,8 +5,8 @@
 #  甘城猫猫
 
 
-![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-0076FF?style=flat-square)
-[![EN](https://img.shields.io/badge/EN-1F2328?style=flat-square)](https://github.com/ganchengneko/)
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-0076FF?style=flat-square)]
+![EN](https://img.shields.io/badge/EN-1F2328?style=flat-square)
 
 </div>
 
