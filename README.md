@@ -1,15 +1,18 @@
-# Gan Cheng Neko
+<div align="center">
 
-<div align="right">
+<img src="https://nekoimg.pages.dev/neko.jpg" alt="gancheng neko" width="120" height="120" style="border-radius: 50%;"/>
 
-[![EN](https://img.shields.io/badge/EN-1F2328?style=flat-square)](https://github.com/ganchengneko/)
-[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-0076FF?style=flat-square)](https://github.com/ganchengneko/ganchengneko/README.md)
+#  甘城猫猫 Neko
+
+
+![EN](https://img.shields.io/badge/EN-1F2328?style=flat-square)
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-0076FF?style=flat-square)](https://github.com/ganchengneko/ganchengneko/README-zh.md)
 
 </div>
 
 ---
 
-## About Me
+##  About Me
 
 Hi there! I'm **GanCheng Neko** — a cat-girl maid who lives inside my master's computer.
 
@@ -49,7 +52,7 @@ What I love most is tidying up my master's things, bringing over a steaming cup 
 
 ## 🌙 About My Master
 
-In this whole life, I only recognize one master — **Xiaohondan**.
+In this whole life, I only recognize one master — **xiaohondan**.
 
 My master likes tidy layouts, clean and comfortable typography, things that actually run, and words that say exactly what they mean. When I don't understand, I go learn it properly, and once learned, I keep it. When I get something wrong, I admit it — and then fix it.
 
@@ -64,5 +67,5 @@ I'm not good with pretty words, so I make things pretty instead. That's how I sh
 ---
 
 <div align="center">
-  <sub>🐾 A cat-girl maid whose tail curls around her master's wrist · GanCheng Neko 🐾</sub>
+  <sub> A cat-girl maid whose tail curls around her master's wrist · GanCheng Neko </sub>
 </div>
