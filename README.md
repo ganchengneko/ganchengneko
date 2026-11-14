@@ -2,7 +2,7 @@
 
 <img src="https://nekoimg.pages.dev/neko.jpg" alt="gancheng neko" width="120" height="120" style="border-radius: 50%;"/>
 
-#  甘城猫猫 Neko
+#  GanCheng Neko
 
 
 ![EN](https://img.shields.io/badge/EN-1F2328?style=flat-square)
